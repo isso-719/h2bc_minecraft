@@ -1,103 +1,92 @@
-[05:11:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05:11:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:11:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:11:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[05:11:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[05:11:36] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[05:11:36] [Server thread/INFO]: Loading properties
-[05:11:36] [Server thread/INFO]: Default game type: SURVIVAL
-[05:11:36] [Server thread/INFO]: Generating keypair
-[05:11:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:11:37] [Server thread/INFO]: Using epoll channel type
-[05:11:37] [Server thread/INFO]: Preparing level "world"
-[05:11:37] [Server thread/INFO]: Reloading ResourceManager: Default
-[05:11:41] [Server thread/INFO]: Loaded 6 recipes
-[05:11:42] [Server thread/INFO]: Loaded 811 advancements
-[05:11:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:11:47] [Server thread/INFO]: Preparing spawn area: 0%
-[05:11:47] [Server thread/INFO]: Preparing spawn area: 0%
-[05:11:47] [Server thread/INFO]: Preparing spawn area: 0%
-[05:11:47] [Server thread/INFO]: Preparing spawn area: 0%
-[05:11:47] [Server thread/INFO]: Preparing spawn area: 0%
-[05:11:47] [Server thread/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[05:12:20] [Server thread/INFO]: Preparing spawn area: 0%
-[05:12:21] [Server thread/INFO]: Time elapsed: 36846 ms
-[05:12:21] [Server thread/INFO]: Done (43.768s)! For help, type "help"
-[05:12:27] [User Authenticator #1/INFO]: UUID of player Iso_Kun is 81d90ee8-7615-4476-8b99-6fe11ce44dfa
-[05:12:28] [Server thread/INFO]: Iso_Kun[/39.110.111.58:54353] logged in with entity id 289 at (-229.3035560421275, 69.0, 56.81381581429636)
-[05:12:28] [Server thread/INFO]: Iso_Kun joined the game
-[05:12:58] [Server thread/INFO]: Iso_Kun lost connection: Disconnected
-[05:12:58] [Server thread/INFO]: Iso_Kun left the game
-[05:17:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2320ms or 46 ticks behind
-[05:19:19] [User Authenticator #2/INFO]: UUID of player Iso_Kun is 81d90ee8-7615-4476-8b99-6fe11ce44dfa
-[05:19:19] [Server thread/INFO]: Iso_Kun[/39.110.111.58:54521] logged in with entity id 362 at (-245.12071568396192, 76.0, 81.16565672678043)
-[05:19:19] [Server thread/INFO]: Iso_Kun joined the game
-[05:21:36] [Server thread/INFO]: Iso_Kun has made the advancement [Suit Up]
-[05:21:59] [Server thread/INFO]: Iso_Kun lost connection: Disconnected
-[05:21:59] [Server thread/INFO]: Iso_Kun left the game
+[08:07:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:07:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:07:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:07:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[08:07:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[08:07:27] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[08:07:27] [Server thread/INFO]: Loading properties
+[08:07:27] [Server thread/INFO]: Default game type: SURVIVAL
+[08:07:27] [Server thread/INFO]: Generating keypair
+[08:07:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:07:27] [Server thread/INFO]: Using epoll channel type
+[08:07:28] [Server thread/INFO]: Preparing level "world"
+[08:07:28] [Server thread/INFO]: Reloading ResourceManager: Default
+[08:07:30] [Server thread/INFO]: Loaded 6 recipes
+[08:07:33] [Server thread/INFO]: Loaded 811 advancements
+[08:07:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:07:37] [Server thread/INFO]: Preparing spawn area: 0%
+[08:07:37] [Server thread/INFO]: Preparing spawn area: 0%
+[08:07:37] [Server thread/INFO]: Preparing spawn area: 0%
+[08:07:37] [Server thread/INFO]: Preparing spawn area: 0%
+[08:07:37] [Server thread/INFO]: Preparing spawn area: 0%
+[08:07:37] [Server thread/INFO]: Preparing spawn area: 0%
+[08:07:39] [User Authenticator #1/INFO]: UUID of player Iso_Kun is 81d90ee8-7615-4476-8b99-6fe11ce44dfa
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[08:08:08] [Server thread/INFO]: Preparing spawn area: 0%
+[08:08:09] [Server thread/INFO]: Time elapsed: 34808 ms
+[08:08:09] [Server thread/INFO]: Done (41.331s)! For help, type "help"
+[08:08:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@2c904149[id=81d90ee8-7615-4476-8b99-6fe11ce44dfa,name=Iso_Kun,properties={textures=[com.mojang.authlib.properties.Property@959785f]},legacy=false] (/39.110.111.58:51461) lost connection: Disconnected
+[08:08:22] [User Authenticator #2/INFO]: UUID of player Iso_Kun is 81d90ee8-7615-4476-8b99-6fe11ce44dfa
+[08:08:22] [Server thread/INFO]: Iso_Kun[/39.110.111.58:51467] logged in with entity id 344 at (-231.13095222163975, 72.0, 73.63283064814563)
+[08:08:22] [Server thread/INFO]: Iso_Kun joined the game
