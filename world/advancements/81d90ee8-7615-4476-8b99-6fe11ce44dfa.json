@@ -370,6 +370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-09-16 17:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-09-15 15:00:13 +0000"
@@ -379,6 +385,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-09-15 14:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-09-16 17:22:57 +0000"
     },
     "done": true
   },
@@ -589,6 +601,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-09-15 14:29:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-09-16 16:23:53 +0000"
     },
     "done": true
   },
@@ -904,6 +922,7 @@
       "minecraft:spider": "2019-09-15 14:12:00 +0000",
       "minecraft:creeper": "2019-09-15 14:17:52 +0000",
       "minecraft:witch": "2019-09-15 15:41:55 +0000",
+      "minecraft:husk": "2019-09-16 16:14:29 +0000",
       "minecraft:enderman": "2019-09-15 14:25:51 +0000",
       "minecraft:zombie": "2019-09-15 14:11:53 +0000"
     },
@@ -1065,6 +1084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2019-09-16 17:22:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2019-09-15 16:00:37 +0000"
@@ -1152,6 +1177,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2019-09-15 14:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-09-16 16:23:53 +0000"
     },
     "done": true
   },
@@ -1789,6 +1820,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2019-09-16 17:22:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2019-09-15 15:00:57 +0000"
@@ -1828,6 +1865,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2019-09-15 16:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2019-09-16 17:22:57 +0000"
     },
     "done": true
   },
