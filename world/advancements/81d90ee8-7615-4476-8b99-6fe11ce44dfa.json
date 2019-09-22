@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-09-22 13:27:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-09-15 14:26:36 +0000"
@@ -185,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-09-22 13:26:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-09-15 14:45:10 +0000"
@@ -212,6 +224,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2019-09-16 17:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-09-22 14:42:07 +0000"
     },
     "done": true
   },
@@ -290,6 +308,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-09-16 13:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-09-22 13:26:39 +0000"
     },
     "done": true
   },
@@ -473,6 +497,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2019-09-18 14:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2019-09-20 14:11:09 +0000"
     },
     "done": true
   },
@@ -803,6 +833,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2019-09-15 14:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2019-09-20 14:11:09 +0000"
     },
     "done": true
   },
@@ -1377,9 +1413,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-09-15 16:06:25 +0000",
+      "chicken": "2019-09-21 14:56:41 +0000",
       "cooked_mutton": "2019-09-15 14:19:18 +0000",
       "cooked_beef": "2019-09-18 14:16:40 +0000",
       "beef": "2019-09-19 16:55:34 +0000",
+      "porkchop": "2019-09-20 15:05:43 +0000",
       "bread": "2019-09-15 14:11:24 +0000",
       "rotten_flesh": "2019-09-15 14:22:56 +0000",
       "suspicious_stew": "2019-09-16 13:59:39 +0000",
@@ -1615,6 +1653,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2019-09-15 14:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2019-09-22 14:42:07 +0000"
     },
     "done": true
   },
@@ -1933,6 +1977,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2019-09-16 13:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2019-09-20 15:13:51 +0000"
     },
     "done": true
   },

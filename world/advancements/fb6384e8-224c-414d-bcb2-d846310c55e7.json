@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_logs": "2019-09-22 14:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-09-13 13:43:37 +0000"
@@ -278,6 +284,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-09-13 13:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2019-09-22 14:34:46 +0000"
     },
     "done": true
   },
@@ -721,6 +733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2019-09-22 14:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2019-09-13 13:20:36 +0000"
@@ -1116,12 +1134,16 @@
       "minecraft:cold_ocean": "2019-09-18 16:55:22 +0000",
       "minecraft:forest": "2019-09-13 14:11:02 +0000",
       "minecraft:desert_hills": "2019-09-13 14:31:40 +0000",
+      "minecraft:snowy_tundra": "2019-09-22 14:43:19 +0000",
       "minecraft:desert": "2019-09-13 14:30:54 +0000",
+      "minecraft:frozen_river": "2019-09-22 14:43:15 +0000",
       "minecraft:deep_frozen_ocean": "2019-09-18 16:55:39 +0000",
       "minecraft:savanna_plateau": "2019-09-13 14:34:43 +0000",
       "minecraft:beach": "2019-09-13 14:41:39 +0000",
       "minecraft:river": "2019-09-13 13:41:05 +0000",
+      "minecraft:snowy_taiga": "2019-09-22 14:42:35 +0000",
       "minecraft:wooded_hills": "2019-09-13 13:17:37 +0000",
+      "minecraft:snowy_taiga_hills": "2019-09-22 14:42:47 +0000",
       "minecraft:savanna": "2019-09-13 13:32:21 +0000",
       "minecraft:plains": "2019-09-13 13:17:11 +0000"
     },
@@ -1214,6 +1236,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-09-13 13:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2019-09-22 14:38:19 +0000"
     },
     "done": true
   },
@@ -1406,6 +1434,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2019-09-13 15:19:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2019-09-22 14:36:42 +0000"
     },
     "done": true
   },
@@ -1603,6 +1637,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2019-09-22 14:22:31 +0000",
       "apple": "2019-09-13 13:29:46 +0000",
       "bread": "2019-09-13 13:46:06 +0000",
       "rotten_flesh": "2019-09-13 13:50:30 +0000"
@@ -1862,6 +1897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2019-09-22 14:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2019-09-13 13:18:31 +0000"
@@ -1964,6 +2005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2019-09-22 14:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2019-09-13 15:26:05 +0000"
@@ -2024,6 +2071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2019-09-22 14:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2019-09-13 15:38:20 +0000"
@@ -2063,6 +2116,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2019-09-13 14:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-09-22 14:34:46 +0000"
     },
     "done": true
   },
