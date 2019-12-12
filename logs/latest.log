@@ -1,13 +1,54 @@
-[07:14:26] [Server thread/INFO]: Stopping the server
-[07:14:26] [Server thread/INFO]: Stopping server
-[07:14:26] [Server thread/INFO]: Saving players
-[07:14:26] [Server thread/INFO]: Saving worlds
-[07:14:26] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[07:14:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:14:26] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[07:14:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:14:26] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[07:14:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:14:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:14:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:14:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:32:32] [User Authenticator #38/INFO]: UUID of player ZombieKiss is 18af8a5a-8759-4316-8772-e485ae044e84
+[06:32:32] [Server thread/INFO]: ZombieKiss[/60.113.255.105:64969] logged in with entity id 69754 at ([world]-3766.4695843940426, 62.073265152906956, 1105.4382748786654)
+[06:33:09] [Server thread/INFO]: ZombieKiss drowned
+[06:35:00] [Server thread/INFO]: ZombieKiss lost connection: Disconnected
+[06:35:00] [Server thread/INFO]: ZombieKiss left the game
+[06:35:02] [User Authenticator #39/INFO]: UUID of player ZombieKiss is 18af8a5a-8759-4316-8772-e485ae044e84
+[06:35:02] [Server thread/INFO]: ZombieKiss[/60.113.255.105:64977] logged in with entity id 70339 at ([world]-243.8863740252205, 69.0, -30.685581493855032)
+[06:38:29] [Server thread/WARN]: ZombieKiss was kicked for floating too long!
+[06:38:29] [Server thread/INFO]: ZombieKiss lost connection: Flying is not enabled on this server
+[06:38:29] [Server thread/INFO]: ZombieKiss left the game
+[06:38:29] [Server thread/WARN]: handleDisconnection() called twice
+[06:38:32] [User Authenticator #40/INFO]: UUID of player ZombieKiss is 18af8a5a-8759-4316-8772-e485ae044e84
+[06:38:32] [Server thread/INFO]: ZombieKiss[/60.113.255.105:65021] logged in with entity id 70681 at ([world]-272.700000025332, 73.01357295587755, 68.29999997466803)
+[06:40:23] [User Authenticator #41/INFO]: UUID of player NOBUNAGA_zs is fb6384e8-224c-414d-bcb2-d846310c55e7
+[06:40:23] [Server thread/INFO]: NOBUNAGA_zs[/106.154.129.173:50384] logged in with entity id 70819 at ([world]-240.60019771828723, 69.0, 27.396694840518574)
+[06:43:19] [Server thread/INFO]: ZombieKiss issued server command: /kill
+[06:43:26] [Server thread/INFO]: ZombieKiss issued server command: /tp nobu
+[06:44:18] [Server thread/INFO]: ZombieKiss fell from a high place
+[06:45:58] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=-248, y=76, z=82}
+[06:49:12] [Server thread/INFO]: ZombieKiss went up in flames
+[06:49:19] [Server thread/INFO]: NOBUNAGA_zs tried to swim in lava
+[06:53:20] [Server thread/INFO]: NOBUNAGA_zs burned to death
+[07:05:08] [Server thread/WARN]: ZombieKiss moved wrongly!
+[07:07:00] [Server thread/INFO]: NOBUNAGA_zs burned to death
+[07:07:00] [Async Chat Thread - #11/INFO]: <ZombieKiss> otukare
+[07:07:10] [Async Chat Thread - #11/INFO]: <ZombieKiss> otuwwwwww
+[07:07:20] [Async Chat Thread - #11/INFO]: <NOBUNAGA_zs> bg
+[07:07:43] [Async Chat Thread - #11/INFO]: <NOBUNAGA_zs> ./ban ZombieKiss
+[07:07:55] [Async Chat Thread - #11/INFO]: <ZombieKiss> ./ban gucchi sine gucci
+[07:08:06] [Async Chat Thread - #11/INFO]: <ZombieKiss> ./pokemon hosii
+[07:09:07] [Async Chat Thread - #12/INFO]: <NOBUNAGA_zs> ./switch yokose gutti
+[07:13:34] [Server thread/INFO]: NOBUNAGA_zs burned to death
+[07:23:25] [Server thread/INFO]: NOBUNAGA_zs lost connection: Disconnected
+[07:23:25] [Server thread/INFO]: NOBUNAGA_zs left the game
+[07:23:30] [User Authenticator #42/INFO]: UUID of player NOBUNAGA_zs is fb6384e8-224c-414d-bcb2-d846310c55e7
+[07:23:30] [Server thread/INFO]: NOBUNAGA_zs[/106.154.129.173:50647] logged in with entity id 76982 at ([world]-183.3111394481919, 8.0, -195.46350942853707)
+[07:23:33] [Server thread/INFO]: NOBUNAGA_zs burned to death
+[07:31:06] [Server thread/INFO]: ZombieKiss lost connection: Disconnected
+[07:31:06] [Server thread/INFO]: ZombieKiss left the game
+[07:35:53] [Server thread/INFO]: NOBUNAGA_zs lost connection: Disconnected
+[07:35:53] [Server thread/INFO]: NOBUNAGA_zs left the game
+[10:29:10] [Server thread/INFO]: Stopping the server
+[10:29:10] [Server thread/INFO]: Stopping server
+[10:29:10] [Server thread/INFO]: Saving players
+[10:29:10] [Server thread/INFO]: Saving worlds
+[10:29:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[10:29:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:29:10] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[10:29:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:29:11] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[10:29:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:29:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:29:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:29:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
