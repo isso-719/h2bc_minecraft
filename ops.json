@@ -1,7 +1,25 @@
 [
   {
+    "uuid": "884a0d8c-27fa-4824-b3ef-94f50ea94b5f",
+    "name": "list",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "fb6384e8-224c-414d-bcb2-d846310c55e7",
+    "name": "NOBUNAGA_zs",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "81d90ee8-7615-4476-8b99-6fe11ce44dfa",
     "name": "Iso_Kun",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c79a17de-7390-4ef9-a6b3-70430d086c7c",
+    "name": "gugu22",
     "level": 4,
     "bypassesPlayerLimit": false
   }

@@ -1,0 +1,15 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2019-12-15 01:36:10 +0900",
+      "minecraft:taiga": "2019-12-15 01:36:57 +0900",
+      "minecraft:desert": "2019-12-15 01:34:46 +0900",
+      "minecraft:jungle": "2019-12-15 01:36:24 +0900",
+      "minecraft:savanna_plateau": "2019-12-15 01:35:03 +0900",
+      "minecraft:river": "2019-12-15 01:35:42 +0900",
+      "minecraft:plains": "2019-12-15 01:34:49 +0900"
+    },
+    "done": false
+  },
+  "DataVersion": 2226
+}

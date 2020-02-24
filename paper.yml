@@ -11,7 +11,7 @@
 # Docs: https://paper.readthedocs.org/ 
 
 verbose: false
-config-version: 19
+config-version: 20
 settings:
   load-permissions-yml-before-plugins: true
   bungee-online-mode: true
@@ -106,6 +106,7 @@ world-settings:
     all-chunks-are-slime-chunks: false
     mob-spawner-tick-rate: 1
     game-mechanics:
+      disable-pillager-patrols: false
       scan-for-legacy-ender-dragon: true
       disable-chest-cat-detection: false
       shield-blocking-delay: 5
@@ -172,3 +173,4 @@ world-settings:
       flat-bedrock: false
     squid-spawn-height:
       maximum: 0.0
+    baby-zombie-movement-modifier: 0.5
